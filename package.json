@@ -28,7 +28,6 @@
     "input": "^1.0.1",
     "moment": "^2.30.1",
     "moment-timezone": "^0.5.45",
-    "multispinner": "^0.2.1",
     "telegram": "^2.22.2",
     "twisters": "^1.1.0",
     "winston": "^3.13.0"
