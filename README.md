@@ -4,7 +4,7 @@
 
 - [Pitch Talk BOT](#pitch-talk-bot)
   - [Table Of Contents](#table-of-contents)
-  - [Vooi Airdrop](#vooi-airdrop)
+  - [Pitch Talk Airdrop](#pitch=talk-airdrop)
   - [Join My Telegram Channel](#join-my-telegram-channel)
   - [Prerequisite](#prerequisite)
   - [BOT FEATURE](#bot-feature)
@@ -19,15 +19,17 @@
   - [CONTRIBUTE](#contribute)
   - [SUPPORT](#support)
 
-## Vooi Airdrop
+## Pitch Talk Airdrop
 
 **AIRDROP** : #New Airdrop
 New Airdrops: PitchTalk Support By Near
+
 🏷️ Reward : PITCH
 ➡️ Register : https://t.me/pitchtalk_bot/app?startapp=1e281a
-➖ Complete Task 
-➖ Farm Daily
-➖ Done
+- Complete Task
+- Farm Daily
+- Done
+
 
 📌 Listed On Q1 & Not Tap Tap Project!
 
@@ -85,10 +87,10 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 
 - Multi Account With Proxy Support
 - Support Telegram Sessions and Telegram Query (Query May Expired)
-- Auto Tap
-- Auto Complete Some Missions
-- Auto Upgrade Random Card
-- Auto Upgrade Booster
+- Auto Complete Some Misisons
+- Auto Start Farming
+- Auto Claim Farming
+- Auto Claim Referal Reward
 
 ## Setup & Configure BOT
 
